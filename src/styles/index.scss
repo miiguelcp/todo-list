@@ -1,7 +1,60 @@
 @import "~bootstrap/scss/bootstrap.scss";
 
-/* 
+body{
+    background-image: url(./textura-papel-corrugado-textura-papel-arte-blanco-textura-papel-gris-claro-superficie-corrugada-fondo-abstracto_256259-233.jpg);
+    
+}
 
+.container{
+    width: 720px;
+}
+
+#title{
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 100px;
+    font-family: 'Montserrat', sans-serif;
+    color:rgb(218, 80, 80);
+    font-weight: 100;
+    
+}
+#titlediv{
+    width: 720px;
+}
+#idinput{
+    width: 720px;
+    background: white;
+}
+input{
+    width: 650px;
+    background: white;
+    color: rgb(165, 165, 165);
+    font-size: 25px;
+    border: none;
+}
+#restante{
+    width: 700px;
+    background: white;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+    color: rgb(230, 230, 230);
+}
+#li{
+    width: 650px;
+    background: white;
+    font-size: 20px;
+    color: rgb(165, 165, 165);
+}
+#lidiv{
+    width: 720px;
+    background: white;
+}
+#divrestante{
+    width: 720px;
+    background: white;
+}
+/* 
     You can write your own styles here...
     
     
